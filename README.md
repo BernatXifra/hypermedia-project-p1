@@ -32,5 +32,6 @@
 
 1. Figma link: https://www.figma.com/design/rjTxyzWGYBNpthgoTuCju8/Hypermedia-Project-p1?t=PcImmQysIN3eSM8h-1
 
-1. GitHub Pages link: https://bernatxifra.github.io/hypermedia-project-p1/ 
-   Note: I don't know why, but GitHub Pages add extra top-margin at the beginning of the website that it isn't shown when I start de website manually.
+1. GitHub Pages link: https://bernatxifra.github.io/hypermedia-project-p1/ *
+
+   *Note: I don't know why, but GitHub Pages add extra top-margin at the beginning of the website that it isn't shown when I start de website manually.
